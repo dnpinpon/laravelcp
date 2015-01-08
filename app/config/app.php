@@ -123,10 +123,10 @@ return array(
 
 		
         /* Additional Providers */
-		"Khill\Lavacharts\LavachartsServiceProvider",
+		'Khill\Lavacharts\LavachartsServiceProvider',
 		'Zizaco\Confide\ServiceProvider', 
-        'Zizaco\Entrust\EntrustServiceProvider', 
-        'Bllim\Datatables\DatatablesServiceProvider',
+        	'Zizaco\Entrust\EntrustServiceProvider', 
+        	'Bllim\Datatables\DatatablesServiceProvider',
 		'anlutro\LaravelSettings\ServiceProvider',
 		'Thomaswelton\LaravelGravatar\LaravelGravatarServiceProvider',
 		'Regulus\ActivityLog\ActivityLogServiceProvider',
